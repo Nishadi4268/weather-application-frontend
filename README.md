@@ -1,5 +1,5 @@
-# Weather Application for Mr. Mickey Arthur
-This is a web-based weather application developed for Mr. Mickey Arthur to view weather details for specific locations. The application provides the following features:
+# Weather Application usin API
+This is a web-based weather application developed to view weather details for specific locations. The application provides the following features:
 
 Login: Users can log in to access the application. This ensures that only authorized users can view the weather details.
 
